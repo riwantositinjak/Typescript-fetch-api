@@ -29,3 +29,5 @@ const logTodo = (ID : number, title : string, finished : boolean) => {
 }
 
 // disini urutan dalam argument dalam typescript sangat penting, maka dari itu tiap argumen perlu diberikan type datanya 
+
+//rebase
